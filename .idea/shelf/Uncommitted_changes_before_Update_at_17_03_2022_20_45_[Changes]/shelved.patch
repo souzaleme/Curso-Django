@@ -1,0 +1,30 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Curso-Django\r\nMódulo Django do Curso Python Pro Br\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision db1394cd03b73fc96f4888040173d2c37c6c2cfd)
++++ b/README.md	(date 1647376987658)
+@@ -1,2 +1,4 @@
+ # Curso-Django
+ Módulo Django do Curso Python Pro Br
++[![Updates](https://pyup.io/repos/github/souzaleme/Curso-Django/shield.svg)](https://pyup.io/repos/github/souzaleme/Curso-Django/)
++[![Python 3](https://pyup.io/repos/github/souzaleme/Curso-Django/python-3-shield.svg)](https://pyup.io/repos/github/souzaleme/Curso-Django/)
+\ No newline at end of file
+Index: .pyup.yml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.pyup.yml b/.pyup.yml
+new file mode 100644
+--- /dev/null	(date 1647377855451)
++++ b/.pyup.yml	(date 1647377855451)
+@@ -0,0 +1,3 @@
++requirements:
++  - Pipfile
++  - Pipfile.lock
+\ No newline at end of file
