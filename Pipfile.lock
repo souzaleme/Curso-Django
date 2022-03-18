@@ -1,7 +1,11 @@
 {
     "_meta": {
         "hash": {
+<<<<<<< HEAD
             "sha256": "84a6b1279938e246ab4f4c9e548199c47dc1498a2648aca8c0fbef269702318e"
+=======
+            "sha256": "c36ae28fea7b9a4cc02145632e2f41469af2e7b38b801903abb8333d3306f36b"
+>>>>>>> origin/main
         },
         "pipfile-spec": 6,
         "requires": {
@@ -24,6 +28,7 @@
             "markers": "python_version >= '3.7'",
             "version": "==3.5.0"
         },
+<<<<<<< HEAD
         "atomicwrites": {
             "hashes": [
                 "sha256:6d1784dea7c0c8d4a5172b6c620f40b6e4cbfdf96d783691f2e1302a7b88e197",
@@ -98,6 +103,8 @@
             "markers": "python_version >= '3.7'",
             "version": "==6.3.2"
         },
+=======
+>>>>>>> origin/main
         "django": {
             "hashes": [
                 "sha256:1239218849e922033a35d2a2f777cb8bee18bd725416744074f455f34ff50d0c",
@@ -106,6 +113,7 @@
             "index": "pypi",
             "version": "==4.0.3"
         },
+<<<<<<< HEAD
         "iniconfig": {
             "hashes": [
                 "sha256:011e24c64b7f47f6ebd835bb12a743f2fbe9a26d4cecaa7f53bc4f35ee9da8b3",
@@ -161,6 +169,8 @@
             "index": "pypi",
             "version": "==3.0.0"
         },
+=======
+>>>>>>> origin/main
         "sqlparse": {
             "hashes": [
                 "sha256:0c00730c74263a94e5a9919ade150dfc3b19c574389985446148402998287dae",
@@ -169,6 +179,7 @@
             "markers": "python_version >= '3.5'",
             "version": "==0.4.2"
         },
+<<<<<<< HEAD
         "tomli": {
             "hashes": [
                 "sha256:939de3e7a6161af0c887ef91b7d41a53e7c5a1ca976325f429cb46ea9bc30ecc",
@@ -176,6 +187,8 @@
             ],
             "version": "==2.0.1"
         },
+=======
+>>>>>>> origin/main
         "tzdata": {
             "hashes": [
                 "sha256:3eee491e22ebfe1e5cfcc97a4137cd70f092ce59144d81f8924a844de05ba8f5",

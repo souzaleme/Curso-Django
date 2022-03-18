@@ -5,7 +5,10 @@ name = "pypi"
 
 [packages]
 django = "*"
+<<<<<<< HEAD
 pytest-cov = "*"
+=======
+>>>>>>> origin/main
 
 [requires]
 python_version = "3.9"
