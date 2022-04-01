@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa1ba000-cea7-4a9d-ab85-e986b0ef047a" name="Changes" comment="instaladas dependências:&#10;- pipenv sync –d (dependências do Pipfile.lock)&#10;- pipenv install pytest-cov">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Curso-Django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Curso-Django.iml" afterDir="false" />
+    <list default="true" id="fa1ba000-cea7-4a9d-ab85-e986b0ef047a" name="Changes" comment="Criados arquivos para deploy no Heroku">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647561719308</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Criados arquivos para deploy no Heroku">
+      <created>1648834019613</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648834019613</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="instaladas dependências:&#10;- pipenv sync –d (dependências do Pipfile.lock)&#10;- pipenv install pytest-cov" />
-    <option name="LAST_COMMIT_MESSAGE" value="instaladas dependências:&#10;- pipenv sync –d (dependências do Pipfile.lock)&#10;- pipenv install pytest-cov" />
+    <MESSAGE value="Criados arquivos para deploy no Heroku" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criados arquivos para deploy no Heroku" />
   </component>
 </project>
