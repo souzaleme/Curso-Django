@@ -1,1 +1,1 @@
-web: gunicorn pypro.wisgi --log-file
+web: gunicorn pypro.wsgi --log-file
