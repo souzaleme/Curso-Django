@@ -7,8 +7,12 @@ name = "pypi"
 pytest-cov = "*"
 django = "*"
 gunicorn = "*"
+pytest-django = "*"
+pytest = "*"
 
 [dev-packages]
+pytest-cov = "*"
+codecov = "*"
 
 [requires]
 python_version = "3.9"
